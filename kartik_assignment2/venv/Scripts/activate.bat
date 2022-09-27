@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\ibm\venv
+set VIRTUAL_ENV=D:\ibm\IBM-Project-11356-1659321196\kartik_assignment2\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

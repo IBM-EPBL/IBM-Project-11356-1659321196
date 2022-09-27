@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\ibm\venv"
+VIRTUAL_ENV="D:\ibm\IBM-Project-11356-1659321196\kartik_assignment2\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
